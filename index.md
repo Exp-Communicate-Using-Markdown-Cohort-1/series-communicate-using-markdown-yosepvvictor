@@ -4,3 +4,6 @@
 ```
 console.log("hello");
 ```
+- [ ] A
+- [ ] B
+- [x] C
